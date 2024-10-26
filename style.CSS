@@ -1,15 +1,16 @@
 h3{
-    color: rgb(10, 110, 110);
+    color: rgb(164, 81, 4);"
     font-size: 40px;
+    font-weight: bold;
+    display: flex;
 }
-body{
-    color: black;
+
    
-}
+
 .center{
-   
-    color: rgb(10, 110, 110);
+    text-align: center;
+
 }
 #link{
-    color: rgb(10, 110, 110);
+  
 }
